@@ -13,7 +13,7 @@ const store = createStore(
   initialState,
   applyMiddleware(...middleware)
 );
-
+// extra comment
 // set up a store subscription listener
 // to store the users token in localStorage
 
