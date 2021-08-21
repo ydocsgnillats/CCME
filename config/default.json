@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://ydocsgnillats:Nonagon420@cluster0.g87hf.mongodb.net/ccmeMain?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
-}
