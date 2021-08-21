@@ -6,3 +6,6 @@
 /config/production.json
 default.json
 production.json
+node_modules/
+config/default.json
+config/production.json
