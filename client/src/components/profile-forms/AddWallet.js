@@ -54,7 +54,7 @@ const AddWallet = ({ addWallet, history }) => {
           />
         </div>
         <input type="submit" className="btn btn-primary my-1" />
-        <Link className="btn btn-light my-1" to="/dashboard">
+        <Link className="btn btn-light my-1" to="/settings">
           Go Back
         </Link>
       </form>
