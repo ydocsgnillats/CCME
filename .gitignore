@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-config/default.json
-config/production.json
+/config/default.json
+/config/production.json
 default.json
 production.json
