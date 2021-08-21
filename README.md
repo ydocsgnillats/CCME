@@ -8,4 +8,4 @@ Simplify your crypto transactions.
 - Add wallets for any crypto currencies you want to get paid in (Public Keys)
 - Share your unique profile link with anyone so they can easily pay you
 
-## www.ccme.io
+## https://www.ccme.io
